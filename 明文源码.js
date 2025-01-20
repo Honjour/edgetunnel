@@ -2190,4 +2190,4 @@ async function KV(request, env, txt = 'ADD.txt') {
 			headers: { "Content-Type": "text/plain;charset=utf-8" }
 		});
 	}
-}
+}// https://github.com/Honjour/edgetunnel/
